@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "C:/venvs/tfenv312/Scripts/python.exe",
+  "python.terminal.activateEnvironment": true,
+  "python.testing.pytestEnabled": false
+}
